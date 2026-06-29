@@ -1,0 +1,6 @@
+{
+  "name": "SMS Hub Pro",
+  "description": "Professional bulk and group SMS hub featuring multi-provider failover, robust contact and group management, scheduled messaging, templates, and delivery analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
